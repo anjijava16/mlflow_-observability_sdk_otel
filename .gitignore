@@ -1,1 +1,5 @@
 .venv/
+otelcol-contrib_*.tar.gz
+otelcol-contrib
+mlflow.db
+mlruns/
